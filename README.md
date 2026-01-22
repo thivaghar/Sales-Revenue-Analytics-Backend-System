@@ -18,12 +18,11 @@ Flask REST APIs (JSON)
 
 
 **Analytics Implemented**
-
-Total Revenue
-Monthly Revenue Trend
-Month-over-Month (MoM) Growth (window functions)
-Revenue by Category
-Revenue by Region
+Total Revenue |
+Monthly Revenue Trend |
+Month-over-Month (MoM) Growth (window functions) |
+Revenue by Category |
+Revenue by Region |
 Average Order Value (AOV)
 
 
@@ -37,3 +36,4 @@ Average Order Value (AOV)
 | `/api/revenue-by-category` | Revenue by product category |
 | `/api/revenue-by-region`   | Revenue by region           |
 | `/api/average-order-value` | Average order value         |
+
